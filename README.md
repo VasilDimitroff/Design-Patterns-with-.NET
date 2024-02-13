@@ -1,5 +1,4 @@
 # .NET-Design-Patterns
- Popular design patterns implemented with .NET
 
 In the repository you will find some popular design patterns implemented with .NET technologies. The goal is to illustrate with simple examples how we can use these patterns.
 
