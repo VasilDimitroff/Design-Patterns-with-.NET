@@ -8,6 +8,8 @@ The abstract factory pattern is a design pattern that provides a way to create f
 
 The example is based on ASP.NET Core and it is implemented with .NET 8 so be sure that your configuration supports this version of the platform.
 
+To use it, just send a GET request to some of endpoints and the action will send you a JSON object.
+
 ### Facade
 
 Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
@@ -21,3 +23,5 @@ To use it you can send POST request with image in payload via Postman:
 3. Add "Content-Type" header to request with value "multipart/form-data"
 4. In Body select form-data. For "key" enter "imageFile" and for value select image from your PC
 5. Send request when the app is started
+
+If the request is correct, in the Output panel will be printed messages with the processes of uploading image.
