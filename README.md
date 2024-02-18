@@ -12,7 +12,9 @@ The example is based on ASP.NET Core and it is implemented with .NET 8 so be sur
 
 Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
 
-To use the example you can send POST request with image in payload via Postman:
+The example is based on ASP.NET Core and .NET 8.
+
+To use it you can send POST request with image in payload via Postman:
 
 1. Start Postman
 2. Enter the URL and select POST request
